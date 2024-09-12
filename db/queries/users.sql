@@ -1,0 +1,1 @@
+insert into users (username, password, age) values ('John Doe', 'password', 20);
